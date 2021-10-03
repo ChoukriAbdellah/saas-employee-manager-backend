@@ -14,7 +14,7 @@
 	<name>sass_employee_manager</name>
 	<description>My saas solution for managers</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
